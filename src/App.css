@@ -24,7 +24,7 @@ body{
   background-color: #1A1B21;
   text-align: center;
   border-radius: 20px;
-  padding: 10px 10px 0px 10px;  
+  padding: 10px 0px 10px 0px;  
   margin: 50px 600px;
 }
 header{
@@ -75,6 +75,7 @@ main{
   
 }
 main p{
+  margin: 0px 10px;
   text-align: left;
   color: #cececf;
   margin-bottom: 50px;
