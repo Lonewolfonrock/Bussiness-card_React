@@ -16,7 +16,7 @@ function Bio() {
       </p>
       <h1>Intrests</h1>
       <p>
-        Body-building.Shadow boxing.Cycling.Running.Coding.Stock Trading.Traveling.Electro Music.Internet fanatic.
+        Body-building ,Shadow boxing, Cycling, Running, Coding, Stock Trading, Traveling, Electro Music, Internet fanatic.
       </p>
 
     </div>
