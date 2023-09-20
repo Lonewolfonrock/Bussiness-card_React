@@ -14,8 +14,8 @@ function Bio() {
       <p id="job-title">Full Stack Developer</p>
       <p id="userweb">Anjesh Website</p>
       <div className="Button_container">
-        <button><FontAwesomeIcon icon={faEnvelope}/>  Email</button>
-        <button className="Linkedin"><FontAwesomeIcon icon={faLinkedin} />  Linkedin</button>
+        <button><FontAwesomeIcon icon={faEnvelope} /><a href="mailto:anjeshmainali348@gmail.com"> Email</a></button>
+        <button className="Linkedin"><FontAwesomeIcon icon={faLinkedin} /><a href="https://www.linkedin.com/in/anjesh-mainali-218070284/" id="a1" target="_blank"> Linkedin</a></button>
       </div>
     </div>
   );

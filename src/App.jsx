@@ -15,8 +15,8 @@ function App() {
       <div className='sub-container'>
         <header><Info/></header>
         <main><Bio/></main>
+        <footer><Footer/></footer>
       
-      <Footer/>
       </div>
       
     </div>

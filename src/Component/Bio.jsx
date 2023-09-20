@@ -14,6 +14,10 @@ function Bio() {
         code that's not only efficient but also highly readable, making it easier for teams to collaborate and
          maintain the software over time. 
       </p>
+      <h1>Intrests</h1>
+      <p>
+        Body-building.Shadow boxing.Cycling.Running.Coding.Stock Trading.Traveling.Electro Music.Internet fanatic.
+      </p>
 
     </div>
   )
